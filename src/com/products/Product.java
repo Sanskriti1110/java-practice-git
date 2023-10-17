@@ -77,7 +77,7 @@ public class Product {
 
 	public static void main(String[] args) {
 		Product p1 = new Product(1,"Hersheys","Chocolate",250);
-		Product p2 = new Product(2,"Gems","Chocolate",560);
+		Product p2 = new Product(2,"M&Ms","Chocolate",560);
 		Product p3 = new Product(3,"Nutella","Chocolate",900);
 		Product p4 = new Product(4,"Cornetto","Icecream",500);
 		Product p5 = new Product(5,"Havmour","Icecream",80);
